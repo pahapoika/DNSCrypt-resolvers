@@ -1,0 +1,1 @@
+This repo includes list of dnscrypt servers i use
